@@ -1,0 +1,3 @@
+/home/pawe/Pulpit/Moje/Szachy/build/CMakeFiles/chess.dir
+/home/pawe/Pulpit/Moje/Szachy/build/CMakeFiles/edit_cache.dir
+/home/pawe/Pulpit/Moje/Szachy/build/CMakeFiles/rebuild_cache.dir
